@@ -13,7 +13,7 @@ This project predicts student performance using **Machine Learning (Random Fores
 ---
 
 ## 📂 Project Structure
-
+```
 Student-Performance-Prediction/
 │── data/ # Dataset (CSV file)
 │── models/ # Saved ML model
@@ -22,24 +22,28 @@ Student-Performance-Prediction/
 │── requirements.txt # Dependencies
 │── .gitignore # Git ignore rules
 │── README.md # Project documentation
-
+```
 
 ---
 
 ## 🛠️ Installation
 
-```bash
+```
 # Clone repository
 git clone https://github.com/Chaitanya-2026/Student-Performance-Prediction.git
 cd Student-Performance-Prediction
-
-# Install dependencies
+```
+## Install dependencies
+```
 pip install -r requirements.txt
-
+```
 ▶️ Run the App
 
-# Train model
+## Train model
+```
 python train.py
-
-# Run web app
+```
+## Run web app
+```
 python -m streamlit run app.py
+```
