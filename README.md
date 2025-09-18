@@ -28,9 +28,12 @@ Student-Performance-Prediction/
 
 ## 🛠️ Installation
 
+
+#### #Clone repository
 ```
-# Clone repository
 git clone https://github.com/Chaitanya-2026/Student-Performance-Prediction.git
+```
+```
 cd Student-Performance-Prediction
 ```
 ## Install dependencies
